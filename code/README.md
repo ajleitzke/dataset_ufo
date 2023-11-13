@@ -1,2 +1,3 @@
-# dataset_ufo
-End of week 12 assignment for BAIS:3250.
+# dataset_imdb/code
+Web scraping code used to create the dataset.
+  
